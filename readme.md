@@ -1,0 +1,109 @@
+
+# 💡 Desafios de Lógica de Programação - JavaScript
+
+> "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."  
+> **– Albert Einstein**
+
+---
+
+## 📊 Status do Projeto
+
+[![GitHub Stars](https://img.shields.io/github/stars/HEROjesus/Codigo-Fonte-DLA?style=for-the-badge)](https://github.com/HEROjesus/Codigo-Fonte-DLA/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/HEROjesus/Codigo-Fonte-DLA?style=for-the-badge)](https://github.com/HEROjesus/Codigo-Fonte-DLA/network)
+[![GitHub Language](https://img.shields.io/github/languages/top/HEROjesus/Codigo-Fonte-DLA?style=for-the-badge)](https://github.com/HEROjesus/Codigo-Fonte-DLA)
+
+---
+
+## 📁 Sobre o Repositório
+
+Este repositório reúne **todos os dias e desafios enfrentados durante meus estudos de lógica de programação**, utilizando **JavaScript** como linguagem principal.  
+Cada dia de prática está organizado em **pastas separadas**, contendo os arquivos com os exercícios resolvidos e explicações sempre que necessário.
+
+---
+
+## 📅 Organização
+
+Os desafios estão organizados por dia:
+
+```
+📂 dia-01/
+📂 dia-02/
+📂 dia-03/
+...
+```
+
+> Para mais detalhes, acesse a pasta correspondente ao dia desejado.
+
+---
+
+## ✅ Tabela de Progresso
+
+| Dia       | Status         | Descrição                      |
+|-----------|----------------|-------------------------------|
+| `dia-01`  | ✅ Concluído    | Variáveis, operadores, if/else |
+| `dia-02`  | ✅ Concluído    | Loops e arrays                |
+| `dia-03`  | ✅ Concluído    | Funções e objetos             |
+| `dia-04`  | 🚧 Em andamento | Exercícios de lógica clássicos |
+| `dia-05`  | ⏳ Pendente     | Em breve                      |
+
+> Atualizado conforme for evoluindo 🚀
+
+---
+
+## 🎯 Objetivo
+
+- Desenvolver e fortalecer o raciocínio lógico  
+- Resolver problemas variados utilizando JavaScript  
+- Criar uma base sólida para algoritmos, estruturas de dados e desafios técnicos futuros  
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **JavaScript (ES6+)**  
+- **Node.js** (para executar os desafios no terminal)
+
+---
+
+## 🛠️ Como Executar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/HEROjesus/Codigo-Fonte-DLA.git
+   ```
+
+2. Acesse o diretório:
+
+   ```bash
+   cd Codigo-Fonte-DLA
+   ```
+
+3. Escolha a pasta do dia desejado e execute o arquivo:
+
+   ```bash
+   cd Day 01
+    cd desafio 01.js
+    Ctrl + alt + N
+   ```
+
+---
+
+## 🤝 Contribuição
+
+Este repositório é um diário pessoal de evolução, mas **sugestões, correções e melhorias são sempre bem-vindas**!  
+Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+---
+
+## 🧠 Motivação
+
+A lógica de programação é o alicerce para resolver qualquer tipo de problema computacional.  
+Este projeto nasceu da vontade de praticar todos os dias, evoluir com consistência e documentar o processo.
+
+---
+
+Feito com 💙, foco e sede de aprendizado.  
+🔗 [Acesse o repositório original](https://github.com/HEROjesus/Codigo-Fonte-DLA)
+
+
