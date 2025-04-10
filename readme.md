@@ -40,11 +40,12 @@ Os desafios estão organizados por dia:
 
 | Dia       | Status         | Descrição                      |
 |-----------|----------------|-------------------------------|
-| `dia-01`  | ✅ Concluído    | Variáveis, operadores, if/else |
-| `dia-02`  | ✅ Concluído    | Loops e arrays                |
-| `dia-03`  | ✅ Concluído    | Funções e objetos             |
-| `dia-04`  | 🚧 Em andamento | Exercícios de lógica clássicos |
-| `dia-05`  | ⏳ Pendente     | Em breve                      |
+| `dia-01`  | ✅ Concluído    | **Inicio logica afiada** |
+| `dia-02`  | ✅ Concluído    | **Entendendo dados e variaveis**             |
+| `dia-03`  | ✅ Concluído    | **Operadores**             |
+| `dia-04`  | ✅ Concluído  | **Estruturas condicionais** |
+| `dia-05`  | 🚧 Em andamento     | Em breve                      |
+| `dia-06`  | ⏳ Pendente     | Em breve                      |
 
 > Atualizado conforme for evoluindo 🚀
 
