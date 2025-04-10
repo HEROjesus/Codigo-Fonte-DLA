@@ -15,7 +15,7 @@
 
 ## 📁 Sobre o Repositório
 
-Este repositório reúne **todos os dias e desafios enfrentados durante meus estudos de lógica de programação**, utilizando **JavaScript** como linguagem principal.  
+Este repositório reúne **os desafios diários enfrentados durante meus estudos de lógica de programação**, utilizando **JavaScript** como linguagem principal.  
 Cada dia de prática está organizado em **pastas separadas**, contendo os arquivos com os exercícios resolvidos e explicações sempre que necessário.
 
 ---
@@ -43,18 +43,18 @@ Os desafios estão organizados por dia:
 | `dia-02`  | ✅ Concluído      | **Entendendo dados e variáveis**            |
 | `dia-03`  | ✅ Concluído      | **Operadores**                              |
 | `dia-04`  | ✅ Concluído      | **Estruturas condicionais**                 |
-| `dia-05`  | 🚧 Em andamento   | **Estrutura de controle de repetição**      |
+| `dia-05`  | 🚧 Em andamento   | **Estruturas de repetição**                 |
 | `dia-06`  | ⏳ Pendente       | **Em breve**                                |
 
-> 🔄 Atualizado conforme for evoluindo 🚀
+> 🔄 Atualizado conforme a evolução 🚀
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
 - Desenvolver e fortalecer o raciocínio lógico  
 - Resolver problemas variados utilizando JavaScript  
-- Criar uma base sólida para algoritmos, estruturas de dados e desafios técnicos futuros
+- Criar uma base sólida para algoritmos, estruturas de dados e desafios técnicos futuros  
 
 ---
 
@@ -79,14 +79,19 @@ Os desafios estão organizados por dia:
    cd Codigo-Fonte-DLA
    ```
 
-3. Escolha a pasta do dia desejado e execute o arquivo:
+3. Navegue até a pasta do dia desejado e abra o arquivo do desafio:
 
    ```bash
    cd dia-01
-   node desafio-01.js
    ```
 
-> 💡 Dica: você pode usar extensões como o **Code Runner** no VS Code para rodar rapidamente os arquivos com `Ctrl + Alt + N`.
+4. Execute o arquivo utilizando uma extensão como **Code Runner** (VS Code):
+
+   ```bash
+   Ctrl + Alt + N
+   ```
+
+   > Certifique-se de que o Node.js esteja instalado e configurado corretamente.
 
 ---
 
@@ -103,8 +108,11 @@ A lógica de programação é o alicerce para resolver qualquer tipo de problema
 Este projeto nasceu da vontade de praticar todos os dias, evoluir com consistência e documentar o processo.
 
 ---
+# 🌍 Multilanguage README
 
-## 🌍 Leia em outro idioma:
+Este repositório está disponível em múltiplos idiomas:
+
+## 📄 Escolha seu idioma | Choose your language
 
 - 🇧🇷 [Português - README.pt-br.md](docs/README.pt-br.md)
 - 🇺🇸 [English - README.en.md](docs/README.en.md)
