@@ -115,8 +115,8 @@ Este repositório está disponível em múltiplos idiomas:
 
 ## 📄 Escolha seu idioma | Choose your language
 
-- 🇧🇷 [Português - README.pt-br.md](docs/README.pt-br.md)
-- 🇺🇸 [English - README.en.md](docs/README.en.md)
+- 🇧🇷 [Português - README.pt-br.md](Docs/README.pt-br.md)
+- 🇺🇸 [English - README.en.md](Docs/README.en.md)
 
 ---
 

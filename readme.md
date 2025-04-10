@@ -106,8 +106,8 @@ Este projeto nasceu da vontade de praticar todos os dias, evoluir com consistên
 
 ## 🌍 Leia em outro idioma:
 
-- 🇧🇷 [Português - README.pt-br.md](docs/README.pt-br.md)
-- 🇺🇸 [English - README.en.md](docs/README.en.md)
+- 🇧🇷 [Português - README.pt-br.md](Docs/README.pt-br.md)
+- 🇺🇸 [English - README.en.md](Docs/README.en.md)
 
 ---
 
