@@ -3,14 +3,11 @@
 
 Neste dia, o foco foi o estudo e prática das **estruturas condicionais** no JavaScript, que são fundamentais para controlar o fluxo dos programas com base em decisões.
 
-> "a duvida é o princípio da sabedoria"  
-> **– Aristóteles**
-
 ---
 
 ## 📌 Conteúdo Abordado
 
-- `if`, `else if`, `else`,`Operador ternario` , `switch case & deafult`
+- `if`, `else if`, `else`
 - Operadores relacionais (`==`, `===`, `!=`, `<`, `>`, etc)
 - Operadores lógicos (`&&`, `||`, `!`)
 - Estruturas de decisão aninhadas

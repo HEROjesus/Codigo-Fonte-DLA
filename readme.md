@@ -43,10 +43,11 @@ Os desafios estão organizados por dia:
 | `dia-02`  | ✅ Concluído      | **Entendendo dados e variáveis**            |
 | `dia-03`  | ✅ Concluído      | **Operadores**                              |
 | `dia-04`  | ✅ Concluído      | **Estruturas condicionais**                 |
-| `dia-05`  | 🚧 Em andamento   | **Estrutura de controle de repetição**      |
-| `dia-06`  | ⏳ Pendente       | **Em breve**                                |
+| `dia-05`  | ✅ Concluído      | **Estruturas de repetição**                 |
+| `dia-06`  | 🚧 Em andamento   | **Funções**                                |
+| `dia-07`  | ⏳ Pendente        | **Em breve**                                |
 
-> 🔄 Atualizado conforme for evoluindo 🚀
+> 🔄 Atualizado conforme a evolução 🚀
 
 ---
 

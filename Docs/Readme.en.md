@@ -43,8 +43,9 @@ Challenges are organized by day:
 | `day-02`  | ✅ Completed      | **Understanding data and variables**    |
 | `day-03`  | ✅ Completed      | **Operators**                           |
 | `day-04`  | ✅ Completed      | **Conditional structures**              |
-| `day-05`  | 🚧 In progress    | **Repetition structures**               |
-| `day-06`  | ⏳ Pending        | **Coming soon**                         |
+| `day-05`  | ✅ Completed      | **Repetition structures**               |
+| `day-06`  | 🚧 In progress    | **Functions**                         |
+| `day-07`  | ⏳ Pending        | **Coming soon**                         |
 
 > 🔄 Updated as progress is made 🚀
 
