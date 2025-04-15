@@ -36,7 +36,7 @@ Neste dia, o foco foi o estudo e prática das **estruturas condicionais** no Jav
 ## 💬 Observações
 
 Este é um passo fundamental na construção de lógica de programação.  
-Saber quando e como aplicar condicionais permite criar programas mais inteligentes e adaptáveis.
+Saber quando e como aplicar condicionais permite criar programas mais inteligentes e adaptáveis. 
 
 ---
 
