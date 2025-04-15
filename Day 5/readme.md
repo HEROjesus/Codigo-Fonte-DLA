@@ -39,6 +39,6 @@ Neste dia, o foco foi o estudo e prática dos **laços de repetição (loops)** 
 Dominar funções é um passo essencial para qualquer programador.  
 Com elas, você pode evitar repetição de código, resolver problemas com mais clareza e escrever programas mais eficientes e organizados.
 
----
+--- 
 
 Feito com 💙 por [Rafael de jesus](https://github.com/Herojesus)
