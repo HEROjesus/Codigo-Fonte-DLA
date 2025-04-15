@@ -15,16 +15,6 @@ Neste dia, o foco foi o estudo e prática das **estruturas condicionais** no Jav
 
 ---
 
-## 🧠 Exemplos de Exercícios
-
-- Verificar se uma pessoa pode ou não votar com base na idade
-- Classificar um número como positivo, negativo ou zero
-- Simular um sistema de notas e verificar aprovação
-- Sistema de autenticação simples com `login` e `senha`
-- Decisões com múltiplas condições encadeadas
-
----
-
 ## 🚀 Como Executar
 
 1. Acesse esta pasta pelo terminal:
