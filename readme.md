@@ -37,15 +37,16 @@ Os desafios estão organizados por dia:
 
 ## ✅ Tabela de Progresso
 
-| 📅 Dia     | 📌 Status         | 🧠 Descrição                                 |
-|-----------|------------------|---------------------------------------------|
+| 📅 Dia     | 📌 Status         | 🧠 Descrição                              |
+|------------|--------------------|--------------------------------------------|
 | `dia-01`  | ✅ Concluído      | **Início – Lógica afiada**                  |
 | `dia-02`  | ✅ Concluído      | **Entendendo dados e variáveis**            |
 | `dia-03`  | ✅ Concluído      | **Operadores**                              |
 | `dia-04`  | ✅ Concluído      | **Estruturas condicionais**                 |
 | `dia-05`  | ✅ Concluído      | **Estruturas de repetição**                 |
-| `dia-06`  | 🚧 Em andamento   | **Funções**                                |
-| `dia-07`  | ⏳ Pendente        | **Em breve**                                |
+| `dia-06`  | ✅ Concluído      | **Funções**                                 |
+| `dia-07`  | 🚧 Em andamento   | **Desafio Dividir e conquistar**            |
+| `dia-08`  | ⏳ Pendente        | **Em breve**                                |
 
 > 🔄 Atualizado conforme a evolução 🚀
 
