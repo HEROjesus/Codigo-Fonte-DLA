@@ -2,7 +2,7 @@
 
 Neste dia, o foco foi o estudo e prática das **funções em JavaScript**, que são essenciais para escrever códigos reutilizáveis, organizados e fáceis de manter.
 
----
+--- 
 
 ## 📌 Conteúdo Abordado
 
