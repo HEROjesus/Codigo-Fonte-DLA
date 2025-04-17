@@ -15,7 +15,7 @@
 
 ## 📁 Sobre o Repositório
 
-Este repositório reúne **os desafios diários enfrentados durante meus estudos de lógica de programação**, utilizando **JavaScript** como linguagem principal.  
+Este repositório reúne **todos os dias e desafios enfrentados durante meus estudos de lógica de programação**, utilizando **JavaScript** como linguagem principal.  
 Cada dia de prática está organizado em **pastas separadas**, contendo os arquivos com os exercícios resolvidos e explicações sempre que necessário.
 
 ---
@@ -45,18 +45,19 @@ Os desafios estão organizados por dia:
 | `dia-04`  | ✅ Concluído      | **Estruturas condicionais**                 |
 | `dia-05`  | ✅ Concluído      | **Estruturas de repetição**                 |
 | `dia-06`  | ✅ Concluído      | **Funções**                                 |
-| `dia-07`  | 🚧 Em andamento   | **Desafio Dividir e conquistar**            |
-| `dia-08`  | ⏳ Pendente        | **Em breve**                                |
+| `dia-07`  | ✅ Concluído      | **Desafio Dividir e conquistar**            |
+| `dia-08`  | 🚧 Em andamento   | **Em breve**                                |
+| `dia-09`  | ⏳ Pendente        | **Em breve**                                |
 
 > 🔄 Atualizado conforme a evolução 🚀
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivo
 
 - Desenvolver e fortalecer o raciocínio lógico  
 - Resolver problemas variados utilizando JavaScript  
-- Criar uma base sólida para algoritmos, estruturas de dados e desafios técnicos futuros  
+- Criar uma base sólida para algoritmos, estruturas de dados e desafios técnicos futuros
 
 ---
 
@@ -81,19 +82,14 @@ Os desafios estão organizados por dia:
    cd Codigo-Fonte-DLA
    ```
 
-3. Navegue até a pasta do dia desejado e abra o arquivo do desafio:
+3. Escolha a pasta do dia desejado e execute o arquivo:
 
    ```bash
    cd dia-01
+   node desafio-01.js
    ```
 
-4. Execute o arquivo utilizando uma extensão como **Code Runner** (VS Code):
-
-   ```bash
-   Ctrl + Alt + N
-   ```
-
-   > Certifique-se de que o Node.js esteja instalado e configurado corretamente.
+> 💡 Dica: você pode usar extensões como o **Code Runner** no VS Code para rodar rapidamente os arquivos com `Ctrl + Alt + N`.
 
 ---
 
@@ -110,11 +106,8 @@ A lógica de programação é o alicerce para resolver qualquer tipo de problema
 Este projeto nasceu da vontade de praticar todos os dias, evoluir com consistência e documentar o processo.
 
 ---
-# 🌍 Multilanguage README
 
-Este repositório está disponível em múltiplos idiomas:
-
-## 📄 Escolha seu idioma | Choose your language
+## 🌍 Leia em outro idioma:
 
 - 🇧🇷 [Português - README.pt-br.md](Readme.pt-br.md)
 - 🇺🇸 [English - README.en.md](Readme.en.md)

@@ -44,9 +44,10 @@ Challenges are organized by day:
 | `day-03`  | ✅ Completed      | **Operators**                           |
 | `day-04`  | ✅ Completed      | **Conditional structures**              |
 | `day-05`  | ✅ Completed      | **Repetition structures**               |
-| `dia-06`  | ✅ Concluído      | **Functions**                             |
-| `dia-07`  | 🚧 In progress    | **Divide and conquer challenge**        |
-| `dia-08`  | ⏳ Pendente        | **Coming soon**                            |
+| `day-06`  | ✅ Completed      | **Functions**                           |
+| `day-07`  | ✅ Completed      | **Divide and conquer challenge**        |
+| `day-08`  | 🚧 In progress    | **Coming soon**                          |
+| `day-09`  | ⏳ Coming soon    | **Coming soon**                          |
 
 > 🔄 Updated as progress is made 🚀
 

@@ -45,8 +45,9 @@ Os desafios estão organizados por dia:
 | `dia-04`  | ✅ Concluído      | **Estruturas condicionais**                 |
 | `dia-05`  | ✅ Concluído      | **Estruturas de repetição**                 |
 | `dia-06`  | ✅ Concluído      | **Funções**                                 |
-| `dia-07`  | 🚧 Em andamento   | **Desafio Dividir e conquistar**            |
-| `dia-08`  | ⏳ Pendente        | **Em breve**                                |
+| `dia-07`  | ✅ Concluído      | **Desafio Dividir e conquistar**            |
+| `dia-08`  | 🚧 Em andamento   | **Em breve**                                |
+| `dia-09`  | ⏳ Pendente        | **Em breve**                                |
 
 > 🔄 Atualizado conforme a evolução 🚀
 
